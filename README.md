@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Debika Ghosal.
 - 🌱 I’m currently learning ...
+- Data structure and Algorithm
+- - 📫 How to reach me: ...
+  - debikaghosal8@gmail.com
 
 <!--
 **Debika3110/Debika3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
