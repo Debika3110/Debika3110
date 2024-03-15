@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is me <b>Debika Ghosal</b>, a <b>Computer Science</b> undergraduate from <b>Asansol Engineering College</b>, Asansol, India</a>.
-    An aspiring <b>Front - End Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> OOPS Enthusiast.</b> 
+    An aspiring <b>Front - End Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> OOPS Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
@@ -19,9 +19,6 @@
 - ⚡ Fun fact: I love Sports, especially Volleyball.
 <br>
 
----
-
-<details>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
@@ -32,7 +29,7 @@
 
 <br>
 
----
+
 
 <details open="">
 <summary>
