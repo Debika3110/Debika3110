@@ -1,69 +1,89 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Debika Ghosal</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Debika Ghosal
+</h1>
+
 <p align="center">
-  <a href="https://github.com/Debika3110/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Front+End+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Debika3110/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Front+End+Web+Developer;DS%20|Enthusiast;Aspiring+Learner&center=true&width=500&height=50">
+  </a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Debika Ghosal</b>, a <b>Computer Science</b> undergraduate from <b>Asansol Engineering College</b>, Asansol, India</a>.
-    An aspiring <b>Front - End Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> OOPS Enthusiast.</b> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+    I'm <b>Debika Ghosal</b>, a final-year <b>Computer Science</b> undergraduate. <br>
+    Passionate about <b>Front-End Web Development</b>, <b>Competitive Programming</b>, and Object-Oriented Programming (OOP). <br>
+    I am committed to continuous learning and driven by a strong work ethic and a growth-oriented mindset.  
+    <br><br>
+    <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  </em>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+---
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently learning OOPS.
-- 👯 I’m looking to collaborate with Front - End Web Devs.
-- ⚡ Fun fact: I love Sports, especially Volleyball.
-<br>
+<h3>🌟 A Few Things About Me</h3>
 
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-</details>
-<br>
+- 🧞 I'm a tech enthusiast with a deep interest in software development and emerging technologies.
+- 🔭 Currently expanding my skills in front-end development, focusing on JavaScript frameworks, UI/UX principles, and responsive design.
+- 👯 Always open to collaboration on meaningful and innovative web-based projects.
+- ⚡ Outside the tech world, I’m an avid sports lover, especially passionate about Volleyball.
+- 📸 I also enjoy photography and love documenting moments through creative visual storytelling.
 
-<br>
+---
 
+<h3>🚀 Technologies & Tools</h3>
 
+<p align="center">
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a></code>
+  <code><a href="https://react.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+  <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+  <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+  <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+</p>
+
+---
 
 <details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
+<summary>📊 <b>GitHub Stats</b></summary>
 <br>
 <p align="center">
   <a href="https://github.com/Debika3110">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Debika3110&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=Debika3110&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Debika3110">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debika3110&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debika3110&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debika3110&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Debika3110" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debika3110&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true" alt="Debika3110" />
+</p>
 </details>
 
 ---
 
-<h4> Connect with me🤝: <h4>
-  </hr>
+<h3>🤝 Connect with Me</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/debika-ghosal-8320b2293/">
-   <img align="left" alt=" Debika Ghosal | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
+    <img alt="Debika Ghosal | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:debikaghosal8@gmail.com">
-    <img align="left" alt="Debika Ghosal | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
+    <img alt="Debika Ghosal | Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/debika_ghosal/">
-    <img align="left" alt="Debika Ghosal | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img alt="Debika Ghosal | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Debika3110">
+    <img alt="Debika Ghosal | GitHub" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-   <a href="https://github.com/debikaghosal8@gmail.com">
-    <img align="left" alt="Debika Ghosal| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  
-<p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+</p>
+
+---
+
+
+
+
+
+
+
