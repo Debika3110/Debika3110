@@ -40,6 +40,11 @@
   <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
   <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
   <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+  <code><a href="https://www.canva.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></a></code>
+  <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
+  <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
+  <code><a href="https://devdocs.io/c/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
 </p>
 
 ---
